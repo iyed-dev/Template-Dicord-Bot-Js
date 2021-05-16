@@ -11,3 +11,5 @@ const config = {
 module.exports = config;
 
 Voilà.
+
+Merci à AkiraDinosaurus#2717
